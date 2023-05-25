@@ -19,3 +19,6 @@
 ### 주차별 내용
 #### 1주차
 
+- [공통] The Composable Architecture Tutorials, Essentials 학습하기 (Your first feature, Adding side effects)
+  - reference : [The Composable Architecture Tutorials](https://pointfreeco.github.io/swift-composable-architecture/main/tutorials/meetcomposablearchitecture/#resources)
+- [개별] -
