@@ -7,7 +7,7 @@
 
 | **정세훈* | **민경태** | **천수현** | **이호영** |
 |:---:|:---:|:---:|:---:|
-<img src="" width="200" height="200" />|<img src="" width="200" height="200" />|<img src="" width="200" height="200" />|<img src="https://i.imgur.com/DnKXXzd.jpg" width="200" height="200" />|
+<img src="" width="200" height="200" />|<img src="" width="200" height="200" />|<img src="https://github.com/YAPP-Github/22nd-Study-TCA/assets/67148595/8d734c51-658b-4e8e-b80a-39e2a6923cd3" width="200" height="200" />|<img src="https://i.imgur.com/DnKXXzd.jpg" width="200" height="200" />|
 |[NewHooon](https://github.com/NewHooon)|[applebuddy](https://github.com/applebuddy)|[Neph3779](https://github.com/Neph3779)|[llghdud921](https://github.com/llghdud921)|
 <br>
 
