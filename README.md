@@ -21,4 +21,13 @@
 
 - [공통] The Composable Architecture Tutorials, Essentials 학습하기 (Your first feature, Adding side effects)
   - reference : [The Composable Architecture Tutorials](https://pointfreeco.github.io/swift-composable-architecture/main/tutorials/meetcomposablearchitecture/#resources)
-- [개별] -
+
+#### 2주차
+
+- [공통] The Composable Architecture Tutorials, Essentials 학습하기 (Testing your feature)
+  - reference : [The Composable Architecture Tutorials](https://pointfreeco.github.io/swift-composable-architecture/main/tutorials/meetcomposablearchitecture/#resources)
+
+#### 3주차
+
+- [공통] The Composable Architecture Tutorials, Navigation 학습하기 (Your first presentation)
+  - reference : [The Composable Architecture Tutorials](https://pointfreeco.github.io/swift-composable-architecture/main/tutorials/meetcomposablearchitecture/#resources)
